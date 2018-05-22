@@ -1,0 +1,14 @@
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\bin\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.deps.json
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\bin\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.dll
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\bin\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.pdb
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\obj\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.csprojAssemblyReference.cache
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\obj\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\obj\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.AssemblyInfoInputs.cache
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\obj\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.AssemblyInfo.cs
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\obj\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.dll
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\obj\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.pdb
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\bin\Debug\netcoreapp2.0\Nkolay.Web.Infrastructure.Core.dll
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\bin\Debug\netcoreapp2.0\Nkolay.Web.Infrastructure.Core.pdb
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\umit.acikgoz\Desktop\Repos\Nkolay\Nkolay.Core\obj\Debug\netcoreapp2.0\Nkolay.Web.Api.Core.csproj.CopyComplete
